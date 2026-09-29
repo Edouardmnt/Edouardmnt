@@ -1,7 +1,7 @@
 # Bonjour, je suis Édouard Menut 👋
 
-🎓 Étudiant ingénieur à l'**ECE Paris**
-💼 En alternance comme **chef de projet IA**
+🎓 Étudiant ingénieur à l'**ECE Paris**<br>
+💼 En alternance comme **chef de projet IA**<br>
 📍 Île-de-France · 🔗 [LinkedIn](https://www.linkedin.com/in/edouard-mnt)
 
 Ce GitHub rassemble mes projets techniques, réalisés en cours, en équipe ou en entreprise : DevOps, développement web, IA/ML et sécurité blockchain.
@@ -29,8 +29,8 @@ Ce GitHub rassemble mes projets techniques, réalisés en cours, en équipe ou e
 
 ### Hi, I'm Édouard Menut 👋
 
-🎓 Engineering student at **ECE Paris**
-💼 Work-study as an **AI project manager**
+🎓 Engineering student at **ECE Paris**<br>
+💼 Work-study as an **AI project manager**<br>
 📍 Île-de-France, France · 🔗 [LinkedIn](https://www.linkedin.com/in/edouard-mnt)
 
 This GitHub gathers my technical projects, from school, team work and industry: DevOps, web development, AI/ML and blockchain security.
