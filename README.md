@@ -1,46 +1,54 @@
 ## Édouard Menut
 
-Étudiant ingénieur à l'ECE Paris, en alternance comme chef de projet IA.<br>
-Je travaille sur des projets d'IA générative (LLM) : cadrer le besoin avec les équipes, suivre les développements et vérifier que l'outil sert vraiment à ceux qui l'utilisent.
+Étudiant ingénieur à l'ECE Paris et Product Owner IA générative en alternance chez Orange.<br>
+Mon métier, c'est de trouver les cas d'usage où l'IA apporte vraiment quelque chose, puis de faire travailler ensemble métiers, data et tech pour que la solution soit utilisée. Ce qui me motive : rendre la donnée claire et utile pour ceux qui s'en servent.
 
-Ce qui m'intéresse dans la data et l'IA, c'est de rendre la donnée utile et lisible pour les utilisateurs. Un modèle qui marche en démo ne suffit pas : il faut que le client comprenne ce qu'il lui apporte. Ce GitHub, c'est le côté technique de ce travail.
+Ce GitHub, c'est mon terrain d'apprentissage technique. Le code que j'écris en entreprise reste privé ; ici je mets ce que je pratique à côté, en cours ou en projet perso.
 
 [LinkedIn](https://www.linkedin.com/in/edouard-mnt) · Île-de-France
 
-### Ce que j'ai fait
+### Parcours data / IA
 
-**Analyse de bots de détection de fraude, chez [Aleno](https://github.com/aleno-ai/forta-bot-malicious-smart-contract-ml-py)**<br>
-Aleno utilise des bots Forta qui repèrent les transactions et smart contracts frauduleux sur Ethereum. Mon travail : analyser les données de plusieurs bots pour comparer leurs résultats et apporter des éléments chiffrés pour négocier les contrats avec leurs fournisseurs.
+**Orange** · Product Owner IA générative, alternance (depuis sept. 2025)<br>
+Conception et déploiement de solutions d'IA générative : identification des cas d'usage, priorisation des fonctionnalités, lien entre équipes métier, data et tech.
+
+**FASST** · stage IA et données JIRA (2025)<br>
+Récupérer les tickets JIRA via l'API, les structurer pour alimenter une IA, puis participer au premier prototype d'assistant conversationnel pour le support fonctionnel. J'ai aussi proposé des règles d'écriture des tickets, parce qu'un assistant ne sera jamais meilleur que les données qu'on lui donne.
+
+**[Aleno](https://github.com/aleno-ai/forta-bot-malicious-smart-contract-ml-py)** · stage analyste (2024)<br>
+Analyse des résultats d'un modèle de machine learning qui prédit les hacks en finance décentralisée (Ethereum). J'ai comparé plusieurs bots de détection pour appuyer la négociation des contrats, travaillé sur la gestion des faux positifs et développé un bot pour automatiser une partie de l'analyse.
+
+### Projets publics
 
 **[Détection d'objets avec Hugging Face](https://github.com/Edouardmnt/object-detection-huggingface)**<br>
-Petit projet perso pour prendre en main l'API d'inférence Hugging Face : on envoie une image, le modèle DETR renvoie les objets trouvés avec un score de confiance. Je l'ai repris récemment pour sortir le token du code et en faire un vrai outil en ligne de commande.
+Mon premier contact avec les modèles pré-entraînés : on envoie une image à l'API d'inférence Hugging Face, le modèle DETR renvoie les objets trouvés et leur score de confiance. Repris récemment pour sortir le token du code et en faire un outil en ligne de commande.
 
-**[DevOpsLabs](https://github.com/chloe254/DevOpsLabs)**, cours DevOps en groupe<br>
-Une API Node.js/Redis écrite en TDD, puis tout ce qu'il faut autour : CI avec GitHub Actions, déploiement continu sur Render, Docker et Docker Compose, stockage sur Kubernetes. C'est ce qui m'a donné envie d'aller vers le MLOps.
+**[DevOpsLabs](https://github.com/chloe254/DevOpsLabs)** · cours DevOps en groupe<br>
+Une API Node.js/Redis écrite en TDD, puis la chaîne complète autour : CI avec GitHub Actions, déploiement continu sur Render, Docker et Docker Compose, stockage sur Kubernetes. C'est ce qui m'a fait comprendre qu'un modèle d'IA a besoin de la même rigueur pour passer en production.
 
-**[Omnes Immobilier](https://github.com/bnvala/WD_Alice_Edouard_Chloe_Victor)**, projet web à 4 (PHP / MySQL)<br>
+**[Omnes Immobilier](https://github.com/bnvala/WD_Alice_Edouard_Chloe_Victor)** · projet web à 4 (PHP / MySQL)<br>
 Site d'agence immobilière fait en une semaine. De mon côté : la messagerie client-agent, la recherche multicritère et l'espace client.
 
-### En ce moment
+### Ce que j'apprends en ce moment
 
-- mettre des LLM en production : RAG, bases vectorielles et surtout l'évaluation des réponses
-- le MLOps : déployer et suivre un modèle comme on le fait pour une appli classique
-- continuer côté DevOps (CI/CD, conteneurs)
+- LLM en production : RAG, bases vectorielles, et surtout comment évaluer les réponses
+- MLOps : déployer et suivre un modèle comme n'importe quelle application
+- DevOps : CI/CD et conteneurs, dans la continuité de DevOpsLabs
 
 ### Outils
 
-Python (pandas, scikit-learn, requests), SQL · LLM / IA générative, Hugging Face · Git, GitHub Actions, Docker, Kubernetes · aussi Java, C, PHP, JavaScript en cours
+Python, SQL · API REST (JIRA, Hugging Face) · LLM / IA générative · Git, GitHub Actions, Docker, Kubernetes · vus en cours : Java, C, PHP, JavaScript
 
 <details>
 <summary>English</summary>
 
-Engineering student at ECE Paris, working as an AI project manager (work-study) on generative AI / LLM projects.<br>
-What I care about: making data useful and readable for the people who actually use it.
+Engineering student at ECE Paris and Generative AI Product Owner (work-study) at Orange. I find where AI actually helps, then get business, data and tech teams working together so the solution gets used.
+This GitHub is where I practise the technical side; my company code stays private.
 
-- **Aleno:** data analysis comparing several Forta fraud-detection bots on Ethereum to support contract negotiations with providers.
-- **Object detection:** Python CLI on top of the Hugging Face inference API (DETR).
-- **DevOpsLabs:** Node.js/Redis API built with TDD, CI/CD with GitHub Actions and Render, Docker, Kubernetes.
-- **Omnes Immobilier:** PHP/MySQL web app, team of 4.
+- **Orange** (2025–): Generative AI Product Owner, use-case discovery, prioritisation, business/data/tech coordination.
+- **FASST** (2025): JIRA API data extraction and structuring for a conversational support assistant prototype.
+- **Aleno** (2024): analysis of an ML model predicting DeFi hacks, comparison of detection bots, false-positive handling, analysis automation bot.
+- Public projects: Hugging Face object detection CLI, DevOpsLabs (TDD, CI/CD, Docker, Kubernetes), PHP/MySQL web app.
 
 Currently learning: LLMs in production (RAG, evaluation), MLOps, DevOps.
 
