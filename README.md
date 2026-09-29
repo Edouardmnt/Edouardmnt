@@ -5,7 +5,7 @@ Mon métier, c'est de trouver les cas d'usage où l'IA apporte vraiment quelque 
 
 Ce GitHub, c'est mon terrain d'apprentissage technique. Le code que j'écris en entreprise reste privé ; ici je mets ce que je pratique à côté, en cours ou en projet perso.
 
-[LinkedIn](https://www.linkedin.com/in/edouard-mnt) · Île-de-France
+[LinkedIn](https://www.linkedin.com/in/edouard-mnt) · [Hugging Face](https://huggingface.co/edouardmnt04) · Île-de-France
 
 ### Parcours data / IA
 
@@ -21,7 +21,7 @@ Analyse des résultats d'un modèle de machine learning qui prédit les hacks en
 ### Projets publics
 
 **[Détection d'objets avec Hugging Face](https://github.com/Edouardmnt/object-detection-huggingface)**<br>
-Mon premier contact avec les modèles pré-entraînés : on envoie une image à l'API d'inférence Hugging Face, le modèle DETR renvoie les objets trouvés et leur score de confiance. Repris récemment pour sortir le token du code et en faire un outil en ligne de commande.
+Mon premier contact avec les modèles pré-entraînés : on envoie une image à l'API d'inférence Hugging Face, le modèle DETR renvoie les objets trouvés et leur score de confiance. Repris récemment pour sortir le token du code, puis mis en ligne sous forme de [démo interactive](https://huggingface.co/spaces/edouardmnt04/object-detection-detr) (Gradio, Hugging Face Spaces).
 
 **[DevOpsLabs](https://github.com/chloe254/DevOpsLabs)** · cours DevOps en groupe<br>
 Une API Node.js/Redis écrite en TDD, puis la chaîne complète autour : CI avec GitHub Actions, déploiement continu sur Render, Docker et Docker Compose, stockage sur Kubernetes. C'est ce qui m'a fait comprendre qu'un modèle d'IA a besoin de la même rigueur pour passer en production.
@@ -48,7 +48,7 @@ This GitHub is where I practise the technical side; my company code stays privat
 - **Orange** (2025–): Generative AI Product Owner, use-case discovery, prioritisation, business/data/tech coordination.
 - **FASST** (2025): JIRA API data extraction and structuring for a conversational support assistant prototype.
 - **Aleno** (2024): analysis of an ML model predicting DeFi hacks, comparison of detection bots, false-positive handling, analysis automation bot.
-- Public projects: Hugging Face object detection CLI, DevOpsLabs (TDD, CI/CD, Docker, Kubernetes), PHP/MySQL web app.
+- Public projects: object detection with DETR ([live demo](https://huggingface.co/spaces/edouardmnt04/object-detection-detr)), DevOpsLabs (TDD, CI/CD, Docker, Kubernetes), PHP/MySQL web app.
 
 Currently learning: LLMs in production (RAG, evaluation), MLOps, DevOps.
 
