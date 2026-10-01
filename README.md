@@ -3,8 +3,6 @@
 Étudiant ingénieur à l'ECE Paris et Product Owner IA générative en alternance chez Orange.<br>
 Mon métier, c'est de trouver les cas d'usage où l'IA apporte vraiment quelque chose, puis de faire travailler ensemble métiers, data et tech pour que la solution soit utilisée. Ce qui me motive : rendre la donnée claire et utile pour ceux qui s'en servent.
 
-Ce GitHub, c'est mon terrain d'apprentissage technique. Le code que j'écris en entreprise reste privé ; ici je mets ce que je pratique à côté, en cours ou en projet perso.
-
 [LinkedIn](https://www.linkedin.com/in/edouard-mnt) · [Hugging Face](https://huggingface.co/edouardmnt04) · Île-de-France
 
 ### Parcours data / IA
